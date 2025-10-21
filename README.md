@@ -1,2 +1,1 @@
-# practice-repo
-Repository for practice
+This is the readme
